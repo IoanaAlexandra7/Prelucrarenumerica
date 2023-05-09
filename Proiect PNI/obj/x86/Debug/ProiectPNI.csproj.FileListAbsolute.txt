@@ -1,0 +1,9 @@
+D:\FACULTATE\AN III\semestrul II\PNI = Prelucrarea numerica a imaginilor\Proiect PNI\Proiect PNI\bin\Debug\BitmapColorBalance.exe
+D:\FACULTATE\AN III\semestrul II\PNI = Prelucrarea numerica a imaginilor\Proiect PNI\Proiect PNI\bin\Debug\BitmapColorBalance.pdb
+D:\FACULTATE\AN III\semestrul II\PNI = Prelucrarea numerica a imaginilor\Proiect PNI\Proiect PNI\obj\x86\Debug\ProiectPNI.csprojAssemblyReference.cache
+D:\FACULTATE\AN III\semestrul II\PNI = Prelucrarea numerica a imaginilor\Proiect PNI\Proiect PNI\obj\x86\Debug\ProiectPNI.MainForm.resources
+D:\FACULTATE\AN III\semestrul II\PNI = Prelucrarea numerica a imaginilor\Proiect PNI\Proiect PNI\obj\x86\Debug\BitmapColorBalance.Properties.Resources.resources
+D:\FACULTATE\AN III\semestrul II\PNI = Prelucrarea numerica a imaginilor\Proiect PNI\Proiect PNI\obj\x86\Debug\ProiectPNI.csproj.GenerateResource.cache
+D:\FACULTATE\AN III\semestrul II\PNI = Prelucrarea numerica a imaginilor\Proiect PNI\Proiect PNI\obj\x86\Debug\ProiectPNI.csproj.CoreCompileInputs.cache
+D:\FACULTATE\AN III\semestrul II\PNI = Prelucrarea numerica a imaginilor\Proiect PNI\Proiect PNI\obj\x86\Debug\BitmapColorBalance.exe
+D:\FACULTATE\AN III\semestrul II\PNI = Prelucrarea numerica a imaginilor\Proiect PNI\Proiect PNI\obj\x86\Debug\BitmapColorBalance.pdb
